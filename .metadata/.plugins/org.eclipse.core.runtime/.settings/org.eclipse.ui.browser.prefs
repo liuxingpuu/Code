@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="2">\n<system/>\n<external location\="/usr/bin/firefox" name\="Firefox"/>\n<external location\="/usr/share/applications/google-chrome.desktop" name\="chrome"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=file\:///home/lxp/python/imooc/baike_spider/output.html|*|file\:/home/lxp/python/imooc/baike_spider/output.html|*|

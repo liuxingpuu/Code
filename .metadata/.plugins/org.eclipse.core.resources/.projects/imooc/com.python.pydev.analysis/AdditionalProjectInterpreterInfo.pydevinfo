@@ -1,0 +1,51 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/lxp/python/.metadata/.plugins/org.eclipse.core.resources/.projects/imooc/com.python.pydev.analysis/v2_indexcache
+baike_spider.html_parser|1476086666000000000|/home/lxp/python/imooc/baike_spider/html_parser.py
+baike_spider.html_outputer|1476084524000000000|/home/lxp/python/imooc/baike_spider/html_outputer.py
+baike_spider.url_manager|1476085626000000000|/home/lxp/python/imooc/baike_spider/url_manager.py
+baike_spider.html_downloader|1476084525000000000|/home/lxp/python/imooc/baike_spider/html_downloader.py
+baike_spider.__init__|1474814874000000000|/home/lxp/python/imooc/baike_spider/__init__.py
+baike_spider.spider_main|1476086665000000000|/home/lxp/python/imooc/baike_spider/spider_main.py
+-- END DISKCACHE
+-- START DICTIONARY
+13
+6=UrlManager
+1=baike_spider.html_outputer
+10=HtmlOutputer.__init__
+13=UrlManager.__init__
+2=baike_spider.html_downloader
+3=baike_spider.html_parser
+8=SpiderMain
+9=HtmlParser
+5=baike_spider.url_manager
+12=SpiderMain.__init__
+11=HtmlDownloader
+4=baike_spider.spider_main
+7=HtmlOutputer
+-- END DICTIONARY
+-- START TREE 1
+5
+htm|3|HtmlOutputer!9@HtmlDownloader!17@HtmlParser!25@
+obj|1|obj_spider!35@
+roo|1|root_url!35@
+spi|1|SpiderMain!33@
+url|1|UrlManager!41@
+-- END TREE
+-- START TREE 2
+14
+__i|3|__init__!6&42@__init__!7&10@__init__!8&34@
+_ge|2|_get_new_data!9&26@_get_new_urls!9&26@
+add|2|add_new_url!6&42@add_new_urls!6&42@
+col|1|collect_data!7&10@
+cra|1|craw!8&34@
+dat|1|datas!10&11@
+dow|2|download!11&18@downloader!12&35@
+get|1|get_new_url!6&42@
+has|1|has_new_url!6&42@
+new|1|new_urls!13&43@
+old|1|old_urls!13&43@
+out|2|outputer!12&35@output_html!7&10@
+par|2|parser!12&35@parse!9&26@
+url|1|urls!12&35@
+-- END TREE
