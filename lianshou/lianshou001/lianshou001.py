@@ -2,7 +2,6 @@
 import random
 from PIL import Image, ImageFont, ImageDraw
 
-hs=111
 msgNum = str(random.randint(1,99))
 
 im = Image.open('14.jpg')
