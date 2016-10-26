@@ -1,4 +1,9 @@
 #coding=utf-8
+'''
+修改图片
+By @liuxingpuu
+'''
+
 import random
 from PIL import Image, ImageFont, ImageDraw
 
