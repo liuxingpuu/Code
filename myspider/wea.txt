@@ -1,0 +1,22 @@
+city:南昌县
+
+date:10-27		day:多云(27°C )		night:晴( 18°C)
+
+date:10-28		day:多云(20°C )		night:阴( 15°C)
+
+date:10-29		day:阴(15°C )		night:阴( 13°C)
+
+date:10-30		day:阴(18°C )		night:多云( 14°C)
+
+date:10-31		day:阵雨(17°C )		night:阵雨( 13°C)
+
+date:11-01		day:阴(18°C )		night:阴( 14°C)
+
+date:11-02		day:晴(17°C )		night:晴( 11°C)
+
+date:11-03		day:晴(18°C )		night:晴( 11°C)
+
+date:11-04		day:少云(20°C )		night:晴( 12°C)
+
+date:11-05		day:晴(22°C )		night:局部多云( 14°C)
+

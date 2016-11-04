@@ -14,8 +14,8 @@ class MyspiderItem(scrapy.Item):
     # name = scrapy.Field()
     pass
 
-class WeatherItem(Item):
-    city = Field()
-    date = Field()
-    dayDesc = Field()
-    dayTemp = Field()
+class WeatherItem(scrapy.Item):
+    city = scrapy.Field()
+    date = scrapy.Field()
+    dayDesc = scrapy.Field()
+    dayTemp = scrapy.Field()

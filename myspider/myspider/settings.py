@@ -8,7 +8,9 @@
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
-
+ITEM_PIPELINES = {
+    'myspider.pipelines.WeatherPipeline' : 1
+    }
 BOT_NAME = 'myspider'
 
 SPIDER_MODULES = ['myspider.spiders']
